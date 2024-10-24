@@ -1,0 +1,6 @@
+
+
+teesri problem hai AI itne bare bare paragraph output me deta hai.. pehle ye poora paragraph bolega phir next output lega.. to isko aisa bnana hai
+jisse agar uske bolne ki beech hum interupt kre ek specific word se to wo wahi ruk jaaye aur next command ke liye ready ho jaaye
+
+filhaal abhi to itna hi haiii
